@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "dart.flutterSdkPath": "C:\\Users\\thara\\Downloads\\flutter\\flutter",
+    "cmake.showOptionsMovedNotification": false,
+    "[html]": {
+        
+        "editor.suggest.insertMode": "replace"
+    }
+}
